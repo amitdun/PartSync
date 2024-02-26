@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "debugger-project",
+  "namespace": "",
+  "sfdcLoginUrl": "https://student-4fa-dev-ed.develop.lightning.force.com/",
+  "sourceApiVersion": "55.0"
+}
